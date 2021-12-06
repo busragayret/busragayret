@@ -7,7 +7,7 @@
 
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="120" height="120" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Industrial Engineer & Deeply interested in Software👩🏻‍💻
-- Actively working on HTML, CSS, JavaScript and React🚀
+- Currently learning HTML, CSS, JavaScript and React🚀
 - Have experience on Web Development with C# / .NET Core💻
 - Allergic to the "comfort zone"👻
 
